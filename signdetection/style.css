@@ -1,0 +1,193 @@
+/*body{
+    padding-left: auto !important;
+    padding-right: auto !important;
+    justify-content: center;
+    background-color: #b7e3f4 !important;
+    
+}
+h1{
+    background-color:  #005580 !important;
+    color: #b7e3f9 !important;
+    text-align: center;
+}
+.brand{
+    margin-right:10px ;
+    margin-left: 30vw;
+}
+.heading{
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    display: flexbox;
+    float: left !important;
+    width: 100%;
+}
+.loginform{
+    margin-left: 40vw;
+    margin-right: auto;
+    justify-content: center;
+    margin-top: 1cm;
+}
+footer{
+    background-color: aqua;
+    color: black !important;
+    position: fixed !important;
+    bottom: 0;
+    width: 100%;
+}
+.foot{
+    position: fixed;
+    bottom: 0cm;
+}
+h4{
+    text-align: center;
+    color: brown;
+
+}
+table,th,td{
+    border: 2px solid black;
+    padding: 3px;
+    background-color: azure;
+
+}
+h6{
+    color: blue !important;
+    background-color: greenyellow;
+    width:3.7cm !important;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+.userbody{
+    background-color: azure;
+}
+.blink {
+
+    color: #b7e3f9;
+    font-family: Arial;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+.tab{
+    position: absolute;
+    left: 30vw;
+}
+.tablepos{
+    height:auto !important;
+    padding-left: 20vw auto;
+}
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.subhead{
+    font-weight: 400;
+    font-size: 3vw !important;
+    color: black !important;
+    text-decoration: solid;
+
+}
+.hover:hover{
+    color: green;
+    font-weight: 700;
+    padding-bottom: 3px !important;
+    font-size: 20px;
+}
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  */
+  body{    
+    
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .navbar-brand{
+      font-size: 35px;
+  }
+  
+  
+  #form{
+      background-color: rgb(255, 255, 255);
+      width:28%;
+      border-radius: 6px;
+      margin:120px auto;
+      padding:40px;
+      box-shadow: 10px 10px 5px rgb(80, 11, 77);
+      margin-top: 25px;
+  }
+  h1{
+      text-align: center;
+  }
+  input{
+      width: 90%;
+      border-radius: 4px;
+      border: 3px solid #f6efef;
+      padding: 5px;
+  }
+  
+ 
+  form label{
+      color:rgb(100, 100, 100);
+      font-size: 18px;
+      font-weight:500;
+  }
+  @media screen and (max-width: 1350px) {
+      #form {
+        width: 40%;
+        margin-left:none;
+        padding:40px;
+      }
+    }
+  @media screen and (max-width: 1100px) {
+      #form {
+        width: 50%;
+        margin-left:none;
+        padding:40px;
+      }
+    }
+  @media screen and (max-width: 700px) {
+      #form {
+        width: 80%;
+        margin-left:none;
+        padding:40px;
+      }
+    }
+    .blink {
+
+        color: #b7e3f9;
+        font-family: Arial;
+    }    
+    body{
+        padding-left: auto !important;
+        padding-right: auto !important;
+        justify-content: center;
+        background-color: #b7e3f4 !important;
+        
+    }
+    .m
+    {
+        padding-left: 30%;
+    }  
+
+  .color
+  {
+    background-color: aqua;
+  }
+  .btn
+  {
+    color: #b7e3f4;
+  }
+
+
